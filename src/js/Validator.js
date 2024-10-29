@@ -7,6 +7,6 @@ export default class Validator {
             return 'Имя подходит!';
         } else {
             return 'Имя не подходит!';
-        }
-    }
-}
+        };
+    };
+};
